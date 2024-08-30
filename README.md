@@ -21,7 +21,7 @@ Used this section to practice some Box Model and Responsiveness. I still working
 
 
 ### Screenshot
-![preview img](/assets/images/SCREENSHOT.png)
+![preview img](/assets/images/screensh.png)
 
 
 
